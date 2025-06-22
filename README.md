@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ekomjah
 - 👀 I’m interested in front-end development
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on your projects as well.
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking forward to collaborating on your projects as well.
 <!-- - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
