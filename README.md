@@ -18,7 +18,7 @@
 
 
 [X](https://x.com/@ekz_dee)
-- 💞️ I’m looking forward to collaborating on your projects as well.
+## 💞️ I’m looking forward to collaborating on your projects as well.
 <!-- - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
