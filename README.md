@@ -1,7 +1,7 @@
 # Hi there, my name is Ekomjah Denis👋
 
-### I am learning fullstack development
-### I’m currently learning React
+## I am learning fullstack development
+### I’m currently learning Python 
 ### I am proficient in these technologies
 ![HTML](https://img.shields.io/badge/Markup-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white)
