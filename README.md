@@ -1,4 +1,4 @@
-# Hi there, my name is Ekomjah Denis👋
+# Hi there, I'm Ekomjah Deniss👋
 
 ## I am learning fullstack development
 ### I’m currently learning Python 
