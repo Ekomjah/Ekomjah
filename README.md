@@ -1,29 +1,51 @@
-# Hi there, I'm Ekomjah Denis👋
+# Welcome to My Profile!
 
-## I am learning fullstack development
-### I’m currently learning Python 
-### I am proficient in these technologies
-![HTML](https://img.shields.io/badge/Markup-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Version_Control-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![CLI](https://img.shields.io/badge/Tool-Command_Line-4B4B4B?style=for-the-badge&logo=gnubash&logoColor=white)
-![React](https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Python](https://img.shields.io/badge/Code-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+## Hello! I am a Full Stack Developer 🌟  
+I specialize in both **frontend** and **backend** development and am continuously learning to enhance my skills, including Docker.  
 
+---  
 
-### Contact me?
-[Email](ekomjahedet@gmail.com)
+## 🚀 Skills  
+### Frontend  
+- React  
+- D3  
+- Tailwind CSS  
+- Webpack  
+- Vite  
 
+### Backend  
+- FastAPI  
+- Node.js  
+- Express  
+- PostgreSQL  
 
+### Testing  
+- Jest  
+- Vitest  
+- Pytest  
 
-[X](https://x.com/@ekz_dee)
-## 💞️ I’m looking forward to collaborating on your projects as well.
-<!-- - 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...-->
+### Package Management  
+- npm  
+- pip  
+- Yarn  
 
-<!---
-Ekomjah/Ekomjah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---  
+
+## 🌟 Featured Projects  
+- **Project A**: [Link to Project A]  
+- **Project B**: [Link to Project B]  
+- **Project C**: [Link to Project C]  
+
+---  
+
+## 📫 Contact Me  
+- Email: [ekomjahedet@gmail.com](mailto:ekomjahedet@gmail.com)  
+- X Account: [@ekz_dee](https://x.com/@ekz_dee)  
+
+---  
+
+**Feel free to connect with me!**  
+
+![Welcome Animation](url-to-your-animation)  
+
+*This README has been last updated on 2026-04-22 21:18:18 UTC*
