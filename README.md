@@ -1,7 +1,24 @@
-# Welcome to My Profile!
+<p align="center">
+  <img src="main.png" width="800" />
+</p>
 
-## Hello! I am a Full Stack Developer 🌟  
-I specialize in both **frontend** and **backend** development and am continuously learning to enhance my skills, including Docker.  
+---
+
+<p align="center">
+  <b>Full-Stack Developer</b><br>
+  Solving real problems • Designer  Undergraduate • Always learning
+</p>
+
+---
+
+### Tech Stack & Skills
+
+| **Programming Languages** | **Development** | **Tools** |
+| :--- | :--- | :--- |
+| <img src="https://skillicons.dev/icons?i=html,css,js,python,ts,go&perline=3" /> | <img src="https://skillicons.dev/icons?i=react,aws,pnpm,express,fastapi,figma,nodejs,supabase,tailwind&perline=4"/> | <img src="https://skillicons.dev/icons?i=bash,git,vercel,vscode,postman,figma,docker,aws,linux&perline=5" width="380"/> |
+
+---
+
 
 ---  
 
