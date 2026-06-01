@@ -13,28 +13,20 @@
 
 ### Tech Stack & Skills
 
-| **Programming Languages** | **Development** | **Tools** |
-| :--- | :--- | :--- |
-| <img src="https://skillicons.dev/icons?i=html,css,js,python,ts,go&perline=3" /> | <img src="https://skillicons.dev/icons?i=react,aws,pnpm,express,fastapi,figma,nodejs,supabase,tailwind&perline=4"/> | <img src="https://skillicons.dev/icons?i=bash,git,vercel,vscode,postman,figma,docker,aws,linux&perline=5" width="380"/> |
+| **Programming Languages** | **Development** | **Testing** | **Tools** |
+| :--- | :--- | :--- | :--- |
+| <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,go&perline=3" width="180"/> | <img src="https://skillicons.dev/icons?i=react,aws,d3,vite,express,fastapi,nodejs,supabase,tailwind,postgresql&perline=5" width="300"/> | <img src="https://skillicons.dev/icons?i=jest" height="48"/>&nbsp;<img src="https://cdn.brandfetch.io/idpyc8TcWP/w/400/h/400/theme/dark/icon.png?c=1dxbfHSJFAPEGdCLU4o5B" height="48"/>&nbsp;<img src="https://cdn.simpleicons.org/pytest/0A9EDC" height="48"/>&nbsp;<img src="https://cdn.simpleicons.org/testinglibrary/E33332" height="48"/> | <img src="https://skillicons.dev/icons?i=bash,git,pnpm,vercel,vscode,postman,figma,docker,aws,linux&perline=5" width="300"/>&nbsp;<img src="https://claude.ai/images/claude_app_icon.png" height="48"/>&nbsp;<img src="https://cdn.simpleicons.org/render/000" height="48"/> |
 
 ---
 
 
+## 👁‍🗨 Visitors
+
+<p align="">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sahil-coder-2070.sahil-coder-2070&"  />
+</p>
+
 ---  
-
-## 🚀 Skills  
-### Frontend  
-- React  
-- D3  
-- Tailwind CSS  
-- Webpack  
-- Vite  
-
-### Backend  
-- FastAPI  
-- Node.js  
-- Express  
-- PostgreSQL  
 
 ### Testing  
 - Jest  
