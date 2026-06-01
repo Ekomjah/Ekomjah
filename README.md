@@ -35,7 +35,7 @@
 <p align="center">
   <a href="" target="blank"><img src="https://img.shields.io/badge/Website-0D3B31?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
   <a href="https://www.linkedin.com/in/ekomjah-denis-35a0873bb/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0D3B31?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/ekomjah" target="blank"><img src="https://img.shields.io/badge/X-0D3B31?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
+  <a href="https://x.com/ekz_dee" target="blank"><img src="https://img.shields.io/badge/X-0D3B31?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
   <a href="mailto:ekomjahedet@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-0D3B31?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
