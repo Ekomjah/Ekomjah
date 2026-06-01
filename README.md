@@ -22,39 +22,24 @@
 
 ## 👁‍🗨 Visitors
 
-<p align="">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sahil-coder-2070.sahil-coder-2070&"  />
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ekomjah.Ekomjah" />
 </p>
 
 ---  
 
-### Testing  
-- Jest  
-- Vitest  
-- Pytest  
+### Let's Connect
 
-### Package Management  
-- npm  
-- pip  
-- Yarn  
+**Open to collaborations and hiring.**
 
----  
-
-## 🌟 Featured Projects  
-- **Project A**: [Link to Project A]  
-- **Project B**: [Link to Project B]  
-- **Project C**: [Link to Project C]  
-
----  
-
-## 📫 Contact Me  
-- Email: [ekomjahedet@gmail.com](mailto:ekomjahedet@gmail.com)  
-- X Account: [@ekz_dee](https://x.com/@ekz_dee)  
-
----  
+<p align="center">
+  <a href="" target="blank"><img src="https://img.shields.io/badge/Website-0D3B31?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/ekomjah/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0D3B31?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/ekomjah" target="blank"><img src="https://img.shields.io/badge/X-0D3B31?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
+  <a href="mailto:ekomjahedet@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-0D3B31?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 **Feel free to connect with me!**  
 
-![Welcome Animation](url-to-your-animation)  
-
-*This README has been last updated on 2026-04-22 21:18:18 UTC*
+*"Code with passion. Build with purpose."*
+---
