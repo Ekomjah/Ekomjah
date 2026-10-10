@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/ekomjah/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D3B31?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/ekz_dee" target="_blank"><img src="https://img.shields.io/badge/X-0D3B31?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="mailto:ekomjahedet@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-0D3B31?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://ekomjahdenis.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Email-0D3B31?style=for-the-badge&logo=gmail&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://ekomjahdenis.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-0D3B31?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 ---
